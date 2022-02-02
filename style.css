@@ -1,0 +1,14 @@
+a {
+    color: white ;
+    font-size: 30px;
+    text-decoration: none;
+}
+#nav {
+    padding: 10px;
+    justify-content: center;
+}
+#row1 {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
