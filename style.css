@@ -30,3 +30,16 @@ a {
 #rowCards {
     justify-content: center;
 }
+#cardDisplay {
+    display: none;
+}
+#buttonsList {
+    /* display: none; */
+}
+.container-fluid {
+    padding-bottom: 70px;
+}
+footer {
+    text-align: center;
+    clear: both;
+}
